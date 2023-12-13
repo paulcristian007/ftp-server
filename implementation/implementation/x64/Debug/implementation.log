@@ -1,0 +1,7 @@
+﻿  implementation.cpp
+D:\facultate\an3-sem1\ss\ftp-server\implementation\implementation\handlePassive.h(55,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\facultate\an3-sem1\ss\ftp-server\implementation\implementation\handlePassive.h(67,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\facultate\an3-sem1\ss\ftp-server\implementation\implementation\handlePassive.h(75,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\facultate\an3-sem1\ss\ftp-server\implementation\implementation\handlePassive.h(92,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\facultate\an3-sem1\ss\ftp-server\implementation\implementation\implementation.cpp(111,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  implementation.vcxproj -> D:\facultate\an3-sem1\ss\ftp-server\implementation\implementation\x64\Debug\implementation.exe

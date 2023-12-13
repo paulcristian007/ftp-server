@@ -1,0 +1,2 @@
+D:\facultate\an3-sem1\ss\ftp-server\implementation\x64\Debug\implementation.exe
+D:\facultate\an3-sem1\ss\ftp-server\implementation\implementation\x64\Debug\implementation.exe
